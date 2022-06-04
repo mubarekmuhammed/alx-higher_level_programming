@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-number = 98
-print(f"{98} Battery street\n")
+num1=input("enter numbers")
+print(f"{num1}battery street\n")
